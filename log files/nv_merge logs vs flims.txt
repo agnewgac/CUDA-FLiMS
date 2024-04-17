@@ -1,0 +1,986 @@
+nv merge logs 
+
+///
+///
+///
+///
+65536
+///
+///
+///
+///
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_0000a0c4_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 6 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 4.17894 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 6 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 1.2001 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 6 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 1.26973 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 6 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 5 duplicate value(s).
+
+
+GPU Time: 1.20813 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 7 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 1.16685 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 6 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 1.1625 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 7 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 1.23155 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 7 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 1.19779 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 6 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 1.24589 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 7 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 1.18202 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 7 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1.19427 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 7 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 1.29574 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 7 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1.16141 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 6 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 1.16131 ms
+
+
+///
+///
+///
+///
+131072
+///
+///
+///
+///
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_00004a88_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 13 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8 duplicate value(s).
+
+
+GPU Time: 1.59258 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 14 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 15 duplicate value(s).
+
+
+GPU Time: 1.5695 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 14 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 9 duplicate value(s).
+
+
+GPU Time: 1.5567 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 14 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 7 duplicate value(s).
+
+
+GPU Time: 1.50413 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 14 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 9 duplicate value(s).
+
+
+GPU Time: 1.57773 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 14 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 1.47066 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 13 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 5 duplicate value(s).
+
+
+GPU Time: 1.48118 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 14 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 1.54605 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 15 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 14 duplicate value(s).
+
+
+GPU Time: 1.57542 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 13 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 262144
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 10 duplicate value(s).
+
+
+GPU Time: 1.49866 ms
+
+
+///
+///
+///
+///
+262144
+///
+///
+///
+///
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_0000658c_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 27 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 35 duplicate value(s).
+GPU Time: 1.80141 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 28 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 31 duplicate value(s).
+GPU Time: 1.78656 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 28 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 36 duplicate value(s).
+GPU Time: 1.7719 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 28 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 36 duplicate value(s).
+GPU Time: 1.73869 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 27 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 31 duplicate value(s).
+GPU Time: 1.77245 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 27 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 27 duplicate value(s).
+GPU Time: 1.7135 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 27 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 38 duplicate value(s).
+GPU Time: 1.77882 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 27 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 33 duplicate value(s).
+GPU Time: 1.88784 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 28 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 38 duplicate value(s).
+GPU Time: 1.71875 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 26 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 524288
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32 duplicate value(s).
+GPU Time: 1.7527 ms
+
+
+///
+///
+///
+///
+524288
+///
+///
+///
+///
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_00002700_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 56 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 121 duplicate value(s).
+GPU Time: 2.23418 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 56 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 122 duplicate value(s).
+GPU Time: 2.42288 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 57 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 117 duplicate value(s).
+GPU Time: 2.14035 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 56 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 134 duplicate value(s).
+GPU Time: 2.35997 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 57 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 118 duplicate value(s).
+GPU Time: 2.29274 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 57 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 115 duplicate value(s).
+GPU Time: 2.25923 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 56 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 140 duplicate value(s).
+GPU Time: 2.21699 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 56 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 122 duplicate value(s).
+GPU Time: 2.22534 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 56 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 141 duplicate value(s).
+GPU Time: 2.15939 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 56 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 1048576
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 146 duplicate value(s).
+GPU Time: 2.28858 ms
+
+
+///
+///
+///
+///
+1048576
+///
+///
+///
+///
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_00006224_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 118 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 499 duplicate value(s).
+GPU Time: 3.74525 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 116 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 505 duplicate value(s).
+GPU Time: 3.39043 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 116 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 532 duplicate value(s).
+GPU Time: 3.03728 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 116 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 512 duplicate value(s).
+GPU Time: 3.02429 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 118 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 492 duplicate value(s).
+GPU Time: 3.06864 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 117 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 531 duplicate value(s).
+GPU Time: 3.04362 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 116 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 490 duplicate value(s).
+GPU Time: 3.39424 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 117 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 502 duplicate value(s).
+GPU Time: 3.07094 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 118 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 495 duplicate value(s).
+GPU Time: 3.05162 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 117 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 490 duplicate value(s).
+GPU Time: 2.9983 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 119 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 2097152
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 511 duplicate value(s).
+GPU Time: 3.04742 ms
+
+
+///
+///
+///
+///
+2097152
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_0000aee4_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 244 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2048 duplicate value(s).
+GPU Time: 4.94602 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 243 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2069 duplicate value(s).
+GPU Time: 4.75853 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 245 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 1989 duplicate value(s).
+GPU Time: 4.61917 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 246 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2043 duplicate value(s).
+GPU Time: 4.63734 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 246 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2048 duplicate value(s).
+GPU Time: 4.63094 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 246 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2016 duplicate value(s).
+GPU Time: 5.34915 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 246 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2016 duplicate value(s).
+GPU Time: 5.15834 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 243 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2060 duplicate value(s).
+GPU Time: 4.77062 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 245 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2055 duplicate value(s).
+GPU Time: 4.71418 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 246 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 4194304
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 2085 duplicate value(s).
+GPU Time: 4.6993 ms
+
+///
+///
+///
+///
+4194304
+///
+///
+///
+///
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_0000c98c_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 507 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8137 duplicate value(s).
+GPU Time: 8.4144 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 510 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8189 duplicate value(s).
+GPU Time: 9.71386 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 515 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8112 duplicate value(s).
+GPU Time: 8.31702 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 514 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8146 duplicate value(s).
+GPU Time: 8.50061 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 512 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8390 duplicate value(s).
+GPU Time: 8.68496 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 514 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8037 duplicate value(s).
+GPU Time: 8.50218 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 517 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8509 duplicate value(s).
+GPU Time: 8.42448 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 511 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8137 duplicate value(s).
+GPU Time: 8.40157 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 509 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8345 duplicate value(s).
+GPU Time: 8.55603 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 512 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8206 duplicate value(s).
+GPU Time: 8.4448 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 511 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 8388608
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 8310 duplicate value(s).
+GPU Time: 8.46285 ms
+
+
+///
+///
+///
+///
+8388608
+///
+///
+///
+///
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_0000b64c_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1065 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32968 duplicate value(s).
+GPU Time: 16.3271 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1069 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32679 duplicate value(s).
+GPU Time: 16.0036 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1075 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32565 duplicate value(s).
+GPU Time: 16.0386 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1073 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32785 duplicate value(s).
+GPU Time: 16.443 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1069 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32519 duplicate value(s).
+GPU Time: 16.7185 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1071 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32605 duplicate value(s).
+GPU Time: 18.8038 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1065 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32766 duplicate value(s).
+GPU Time: 16.1426 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1068 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32921 duplicate value(s).
+GPU Time: 17.1795 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1065 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32828 duplicate value(s).
+GPU Time: 16.3208 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 1074 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 16777216
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 32715 duplicate value(s).
+GPU Time: 16.0365 ms
+
+
+///
+///
+///
+///
+16777216
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o nv_merge nv_merge.cu
+nv_merge.cu
+tmpxft_000031b0_00000000-10_nv_merge.cudafe1.cpp
+   Creating library nv_merge.lib and object nv_merge.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2227 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 131189 duplicate value(s).
+GPU Time: 31.1002 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2221 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 131189 duplicate value(s).
+GPU Time: 30.6706 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2228 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 131228 duplicate value(s).
+GPU Time: 30.7179 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2222 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 130159 duplicate value(s).
+GPU Time: 30.6555 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2228 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 129980 duplicate value(s).
+GPU Time: 31.0099 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2216 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 130952 duplicate value(s).
+GPU Time: 36.3304 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2235 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 130410 duplicate value(s).
+GPU Time: 30.8833 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2230 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 130639 duplicate value(s).
+GPU Time: 30.5798 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2232 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 130598 duplicate value(s).
+GPU Time: 30.7281 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+Time to generate array 2240 ms
+The combined and processed array C_thrust is sorted in decreasing order.
+Array length: 33554432
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 130623 duplicate value(s).
+GPU Time: 30.4564 ms

@@ -1,0 +1,1014 @@
+//
+//
+//
+//
+//
+//
+4
+//
+//
+//
+//
+//
+//
+
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_00005c28_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 4
+GPU Time: 27.8263 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 4
+GPU Time: 12.4408 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 4
+GPU Time: 12.4086 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 4
+GPU Time: 12.3934 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 4
+GPU Time: 12.3986 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 4
+GPU Time: 12.4022 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 4
+GPU Time: 12.6553 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 4
+GPU Time: 12.3831 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 4
+GPU Time: 12.41 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 4
+GPU Time: 12.4033 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 4
+GPU Time: 12.416 ms
+
+
+
+//
+//
+//
+//
+//
+//
+8
+//
+//
+//
+//
+//
+//
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_0000a9b0_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 8
+GPU Time: 31.8587 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 8
+GPU Time: 7.49654 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 8
+GPU Time: 7.49494 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 8
+GPU Time: 7.49958 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 8
+GPU Time: 7.49629 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 8
+GPU Time: 7.64688 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 8
+GPU Time: 7.50205 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 8
+GPU Time: 7.53536 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 8
+GPU Time: 7.49181 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 8
+GPU Time: 7.49334 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 8
+GPU Time: 7.50227 ms
+
+
+
+//
+//
+//
+//
+//
+//
+16
+//
+//
+//
+//
+//
+//
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_0000b884_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 16
+GPU Time: 20.3014 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 16
+GPU Time: 4.88429 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 16
+GPU Time: 4.80045 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 16
+GPU Time: 4.95798 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 16
+GPU Time: 4.82902 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 16
+GPU Time: 4.79734 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 16
+GPU Time: 4.82381 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 16
+GPU Time: 4.94438 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 16
+GPU Time: 4.80746 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 16
+GPU Time: 4.80794 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 16
+GPU Time: 4.8199 ms
+
+
+//
+//
+//
+//
+//
+//
+32
+//
+//
+//
+//
+//
+//
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_0000ab64_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 32
+GPU Time: 18.6939 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 32
+GPU Time: 2.91408 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 32
+GPU Time: 2.90291 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 32
+GPU Time: 2.89472 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 32
+GPU Time: 2.91251 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 32
+GPU Time: 2.92858 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 6 dupes value(s).
+element value 32
+GPU Time: 2.91027 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 32
+GPU Time: 2.91485 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 5 dupes value(s).
+element value 32
+GPU Time: 2.89546 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 32
+GPU Time: 2.90547 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 32
+GPU Time: 2.93517 ms
+
+//
+//
+//
+//
+//
+//
+64
+//
+//
+//
+//
+//
+// 
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_0000c9d0_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 64
+GPU Time: 26.7208 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 64
+GPU Time: 1.84333 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 64
+GPU Time: 1.8144 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 64
+GPU Time: 1.81853 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 64
+GPU Time: 1.82634 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 64
+GPU Time: 1.83392 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 64
+GPU Time: 1.82957 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 64
+GPU Time: 1.8752 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 64
+GPU Time: 1.83283 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 64
+GPU Time: 1.8544 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 64
+GPU Time: 1.83914 ms
+//
+//
+//
+//
+//
+//
+128
+//
+//
+//
+//
+//
+//
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_000088e0_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 128
+GPU Time: 17.3359 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 128
+GPU Time: 1.28368 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 128
+GPU Time: 1.28544 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 128
+GPU Time: 1.26227 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 128
+GPU Time: 1.30291 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 128
+GPU Time: 1.26557 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 128
+GPU Time: 1.28358 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 128
+GPU Time: 1.28746 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 128
+GPU Time: 1.27786 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 128
+GPU Time: 1.28512 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 128
+GPU Time: 1.26496 ms
+
+
+
+//
+//
+//
+//
+//
+//
+256
+//
+//
+//
+//
+//
+//
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_00004450_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 256
+GPU Time: 17.5823 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 256
+GPU Time: 1.24576 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 256
+GPU Time: 1.0409 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 256
+GPU Time: 1.05136 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 256
+GPU Time: 1.06176 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 256
+GPU Time: 1.09117 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 6 dupes value(s).
+element value 256
+GPU Time: 1.05437 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 256
+GPU Time: 1.05482 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 5 dupes value(s).
+element value 256
+GPU Time: 1.0521 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 256
+GPU Time: 1.0536 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 6 dupes value(s).
+element value 256
+GPU Time: 1.05062 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 256
+GPU Time: 1.05005 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 256
+GPU Time: 1.06294 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 256
+GPU Time: 1.0576 ms
+
+
+//
+//
+//
+//
+//
+//
+512
+//
+//
+//
+//
+//
+//
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_0000443c_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 512
+GPU Time: 17.9757 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 512
+GPU Time: 0.95664 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 512
+GPU Time: 1.18314 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 512
+GPU Time: 0.990528 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 512
+GPU Time: 0.962528 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 5 dupes value(s).
+element value 512
+GPU Time: 0.998528 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 512
+GPU Time: 0.989376 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 512
+GPU Time: 0.944096 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 512
+GPU Time: 1.10323 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 512
+GPU Time: 0.973248 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 512
+GPU Time: 0.974592 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 512
+GPU Time: 0.964608 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 512
+GPU Time: 0.964544 ms
+
+
+//
+//
+//
+//
+//
+//
+1024
+//
+//
+//
+//
+//
+//
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f8 f8.cu
+f8.cu
+tmpxft_0000b834_00000000-10_f8.cudafe1.cpp
+   Creating library f8.lib and object f8.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 1024
+GPU Time: 5.79501 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 5 dupes value(s).
+element value 1024
+GPU Time: 0.955232 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 1024
+GPU Time: 0.950944 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 1024
+GPU Time: 0.91456 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+element value 1024
+GPU Time: 0.920896 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 1024
+GPU Time: 0.956416 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 1024
+GPU Time: 1.00061 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+element value 1024
+GPU Time: 0.917024 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 3 dupes value(s).
+element value 1024
+GPU Time: 0.919712 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 1024
+GPU Time: 1.14307 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+element value 1024
+GPU Time: 0.966528 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f8.exe
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+element value 1024
+GPU Time: 0.9368 ms

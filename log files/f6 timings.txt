@@ -1,0 +1,1224 @@
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+4 Elements
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1863957779
+Duplicate found: -2092743091
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1198.52 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1686060160
+Duplicate found: 620437192
+Duplicate found: -436443430
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 1268.51 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 1209.28 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1566745342
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 1196.21 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1717203610
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 1230.77 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1630662290
+Duplicate found: -1819961769
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1240.11 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1423029092
+Duplicate found: 1351781088
+Duplicate found: -1397095346
+Duplicate found: -1432680821
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 1243.82 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1882906682
+Duplicate found: 44525686
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1211.15 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -576267794
+Duplicate found: -1962297521
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1250.06 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 257869419
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 1234.23 ms
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+8 Elements
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 400841761
+Duplicate found: -1801383079
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 464.136 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 2076338615
+Duplicate found: 139151353
+Duplicate found: -338077518
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 462.683 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1549685185
+Duplicate found: -146004386
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 450.047 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1689289042
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 454.613 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 476.176 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1089102471
+Duplicate found: -1102645678
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 447.805 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -408150831
+Duplicate found: -1145835178
+Duplicate found: -1854464707
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 449.885 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1752276498
+Duplicate found: 1335571338
+Duplicate found: -322704252
+Duplicate found: -863221717
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 448.316 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 743525371
+Duplicate found: 349379186
+Duplicate found: -71694922
+Duplicate found: -1574984104
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 461.641 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 2066088484
+Duplicate found: -1369771140
+Duplicate found: -1520915802
+Duplicate found: -2056367005
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 459.611 ms
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+16 Elements
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -855686299
+Duplicate found: -877742914
+Duplicate found: -1224442829
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 205.701 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 99087140
+Duplicate found: -1072993358
+Duplicate found: -1233954283
+Duplicate found: -1610411141
+Duplicate found: -1676095135
+The combined and processed array C contains 5 duplicate value(s).
+
+
+GPU Time: 198.019 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 2098624841
+Duplicate found: -2053057733
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 216.86 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -986496504
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 197.749 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1714643753
+Duplicate found: -1748647498
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 197.449 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 853602214
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 196.354 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 197.297 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 192.713 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1761940718
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 191.958 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 657218705
+Duplicate found: 538949952
+Duplicate found: 172264104
+Duplicate found: -757662240
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 200.561 ms
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+32 Elements
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 2018326132
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 100.392 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1066555335
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 98.2053 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1854258446
+Duplicate found: 758967265
+Duplicate found: -1121740034
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 96.7954 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1955126669
+Duplicate found: -572085
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 155.612 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1759048828
+Duplicate found: 1745759936
+Duplicate found: 345125205
+Duplicate found: -686683574
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 97.3833 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1052580327
+Duplicate found: -463357934
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 98.3024 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1915164514
+Duplicate found: 1775537505
+Duplicate found: 171385435
+Duplicate found: -283559333
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 96.8561 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1242752194
+Duplicate found: 1148253801
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 98.0071 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 605952213
+Duplicate found: 230655424
+Duplicate found: 75680748
+Duplicate found: -1480723722
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 96.6222 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -216792721
+Duplicate found: -1357053000
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 96.4973 ms
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+64 Elements
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1295807825
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 40.2045 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1512653481
+Duplicate found: 593168375
+Duplicate found: -177753173
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 39.1852 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1105747527
+Duplicate found: -274253602
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 40.889 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 394614427
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 40.5269 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1062755156
+Duplicate found: -1419732063
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 39.0577 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1480591791
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 80.1269 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 868585605
+Duplicate found: 730440246
+Duplicate found: -1816451883
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 40.9417 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -360415573
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 38.9917 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -365686497
+Duplicate found: -1746807092
+Duplicate found: -2086198738
+Duplicate found: -2140669196
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 41.2418 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -970394808
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 39.523 ms
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+512 Elements
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 6.10035 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1906514866
+Duplicate found: 1363932801
+Duplicate found: -399565857
+Duplicate found: -438771948
+Duplicate found: -514891755
+Duplicate found: -1648286245
+Duplicate found: -1984995692
+The combined and processed array C contains 7 duplicate value(s).
+
+
+GPU Time: 6.02074 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 498787322
+Duplicate found: -1760113993
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 6.06448 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1359647817
+Duplicate found: 507725352
+Duplicate found: -963667685
+Duplicate found: -1001957141
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 5.91866 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 801950695
+Duplicate found: 347092182
+Duplicate found: -1443465134
+Duplicate found: -1887972441
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 6.03747 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1308776589
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 5.96339 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 38941135
+Duplicate found: -390373761
+Duplicate found: -432871187
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 5.9496 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 760537351
+Duplicate found: -328072767
+Duplicate found: -709377486
+Duplicate found: -1229461542
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 6.05971 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 2019214925
+Duplicate found: -286842792
+Duplicate found: -981209727
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 5.91939 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1315904701
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 5.8896 ms
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+1024 Elements
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1890992889
+Duplicate found: 1644402456
+Duplicate found: -403088498
+Duplicate found: -663915367
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 3.48035 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1565554408
+Duplicate found: 1461383809
+Duplicate found: 1062860343
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 3.7545 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 2144983269
+Duplicate found: 28357805
+Duplicate found: -332527873
+Duplicate found: -1539827753
+Duplicate found: -1872562391
+The combined and processed array C contains 5 duplicate value(s).
+
+
+GPU Time: 3.64502 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1183617370
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 3.57418 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 435543
+Duplicate found: -81819061
+Duplicate found: -685389553
+Duplicate found: -1674649161
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 3.58342 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 338048096
+Duplicate found: -1180368678
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 3.53741 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 65125128
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 3.61171 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1170659012
+Duplicate found: -1665782582
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 3.65664 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1397452218
+Duplicate found: -1647093119
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 3.50307 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1281458043
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 3.62659 ms
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+1024 Elements NO cudaDeviceSynchronize IN THE FOR LOOP
+//////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -746361492
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 2.57757 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -2037775130
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 2.30966 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1779485767
+Duplicate found: 1259451798
+Duplicate found: 169805013
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 2.2872 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -14509967
+Duplicate found: -1463045381
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 3.44867 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 2028036356
+Duplicate found: 1767875973
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 2.38429 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+The combined and processed array C contains 0 duplicate value(s).
+
+
+GPU Time: 2.27811 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 20 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -267466106
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 2.33949 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1516225330
+Duplicate found: -783795233
+Duplicate found: -1974685443
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 3.50144 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 660968403
+Duplicate found: -1635312380
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 2.35136 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 423071524
+Duplicate found: 43241524
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 2.35146 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 336725925
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 2.35514 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1946264376
+Duplicate found: 757997856
+Duplicate found: -551054283
+Duplicate found: -1273479525
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 2.34387 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1752869744
+Duplicate found: 1404390648
+Duplicate found: -1056094540
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 2.31914 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1114300534
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 2.348 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 18 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 2136503412
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 2.30947 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 21 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1346770692
+Duplicate found: -49167739
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 2.30438 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f6.exe
+
+Time to generate array 19 ms
+Array length: 131072
+The combined and processed array C is sorted in decreasing order.
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1878902564
+Duplicate found: -511303338
+Duplicate found: -679311373
+Duplicate found: -974259247
+The combined and processed array C contains 4 duplicate value(s).
+
+
+GPU Time: 3.43158 ms
