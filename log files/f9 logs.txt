@@ -1,0 +1,1297 @@
+f9 logs
+
+///
+///
+///
+///
+65536
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_00006a68_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 6 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+GPU Time: 0.35328 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 7 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+GPU Time: 0.335872 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 7 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+GPU Time: 0.330752 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 7 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+GPU Time: 0.335872 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 7 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 0 dupes value(s).
+GPU Time: 0.344064 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 7 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 4 dupes value(s).
+GPU Time: 0.384 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 7 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+GPU Time: 0.339712 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 6 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+GPU Time: 0.326656 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 6 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2 dupes value(s).
+GPU Time: 0.321536 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 7 ms
+Array length: 131072
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1 dupes value(s).
+GPU Time: 0.331776 ms
+
+
+
+
+///
+///
+///
+///
+131072
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_0000556c_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 13 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 9 dupes value(s).
+GPU Time: 0.423872 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 14 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 9 dupes value(s).
+GPU Time: 0.428032 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 14 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 11 dupes value(s).
+GPU Time: 0.413696 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 13 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 11 dupes value(s).
+GPU Time: 0.399456 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 13 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 14 dupes value(s).
+GPU Time: 0.397312 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 14 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 6 dupes value(s).
+GPU Time: 0.410592 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 14 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 9 dupes value(s).
+GPU Time: 0.395968 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 14 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 13 dupes value(s).
+GPU Time: 0.408576 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 13 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8 dupes value(s).
+GPU Time: 0.39424 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 13 ms
+Array length: 262144
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 5 dupes value(s).
+GPU Time: 0.401408 ms
+
+
+
+///
+///
+///
+///
+262144
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_0000b940_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 27 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 36 dupes value(s).
+GPU Time: 0.548864 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 26 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 26 dupes value(s).
+GPU Time: 0.5568 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 27 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 26 dupes value(s).
+GPU Time: 0.534528 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 28 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32 dupes value(s).
+GPU Time: 0.536576 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 26 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 31 dupes value(s).
+GPU Time: 0.602112 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 28 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 41 dupes value(s).
+GPU Time: 0.534528 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 27 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 19 dupes value(s).
+GPU Time: 0.530432 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 28 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 26 dupes value(s).
+GPU Time: 0.538624 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 26 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 35 dupes value(s).
+GPU Time: 0.529408 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 27 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 33 dupes value(s).
+GPU Time: 0.5264 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 27 ms
+Array length: 524288
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 38 dupes value(s).
+GPU Time: 0.541696 ms
+
+
+
+
+///
+///
+///
+///
+524288
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_00005040_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 56 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 138 dupes value(s).
+GPU Time: 0.84592 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 55 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 133 dupes value(s).
+GPU Time: 0.867072 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 56 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 136 dupes value(s).
+GPU Time: 0.864256 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 56 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 125 dupes value(s).
+GPU Time: 0.832512 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 55 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 131 dupes value(s).
+GPU Time: 0.81408 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 57 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 124 dupes value(s).
+GPU Time: 0.869376 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 56 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 127 dupes value(s).
+GPU Time: 0.806912 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 55 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 138 dupes value(s).
+GPU Time: 0.813056 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 56 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 138 dupes value(s).
+GPU Time: 0.791552 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 57 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 124 dupes value(s).
+GPU Time: 0.81408 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 56 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 115 dupes value(s).
+GPU Time: 0.815104 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 55 ms
+Array length: 1048576
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 142 dupes value(s).
+GPU Time: 0.807904 ms
+
+///
+///
+///
+///
+1048576
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_0000bc74_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 118 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 588 dupes value(s).
+GPU Time: 1.39981 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 115 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 513 dupes value(s).
+GPU Time: 1.4399 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 116 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 508 dupes value(s).
+GPU Time: 1.38035 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 117 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 501 dupes value(s).
+GPU Time: 1.46227 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 118 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 508 dupes value(s).
+GPU Time: 1.37114 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 116 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 529 dupes value(s).
+GPU Time: 1.36806 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 117 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 539 dupes value(s).
+GPU Time: 1.44896 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 116 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 486 dupes value(s).
+GPU Time: 1.42461 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 116 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 514 dupes value(s).
+GPU Time: 1.36704 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 116 ms
+Array length: 2097152
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 536 dupes value(s).
+GPU Time: 1.47763 ms
+
+
+///
+///
+///
+///
+2097152
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_0000a874_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 241 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2091 dupes value(s).
+GPU Time: 2.98701 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 243 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2081 dupes value(s).
+GPU Time: 2.9655 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 242 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2126 dupes value(s).
+GPU Time: 2.98496 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 241 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2083 dupes value(s).
+GPU Time: 3.00851 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 243 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2173 dupes value(s).
+GPU Time: 2.9737 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 241 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2061 dupes value(s).
+GPU Time: 3.00339 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 245 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2027 dupes value(s).
+GPU Time: 3.00442 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 245 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2069 dupes value(s).
+GPU Time: 3.03206 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 241 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2056 dupes value(s).
+GPU Time: 2.99622 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 243 ms
+Array length: 4194304
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 1982 dupes value(s).
+GPU Time: 3.01158 ms
+
+
+///
+///
+///
+///
+4194304
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_00002c6c_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 499 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8366 dupes value(s).
+GPU Time: 6.21466 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 509 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8240 dupes value(s).
+GPU Time: 6.18701 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 503 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8159 dupes value(s).
+GPU Time: 6.25578 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 503 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8386 dupes value(s).
+GPU Time: 6.23718 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 512 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8185 dupes value(s).
+GPU Time: 6.19747 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 504 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8181 dupes value(s).
+GPU Time: 6.22592 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 508 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8216 dupes value(s).
+GPU Time: 6.20544 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 505 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8226 dupes value(s).
+GPU Time: 6.2249 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 505 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8112 dupes value(s).
+GPU Time: 6.2167 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 505 ms
+Array length: 8388608
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8152 dupes value(s).
+GPU Time: 6.20851 ms
+
+
+///
+///
+///
+///
+8388608
+///
+///
+///
+///
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_00001554_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1057 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32577 dupes value(s).
+GPU Time: 12.542 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1055 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32565 dupes value(s).
+GPU Time: 12.5348 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1053 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32127 dupes value(s).
+GPU Time: 12.4671 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1055 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32693 dupes value(s).
+GPU Time: 12.5155 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1051 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32639 dupes value(s).
+GPU Time: 12.5635 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1053 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32761 dupes value(s).
+GPU Time: 12.502 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1054 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32503 dupes value(s).
+GPU Time: 12.4683 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1067 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32800 dupes value(s).
+GPU Time: 12.5235 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1050 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32823 dupes value(s).
+GPU Time: 12.5491 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 1054 ms
+Array length: 16777216
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 32764 dupes value(s).
+GPU Time: 12.4549 ms
+
+
+
+///
+///
+///
+///
+16777216
+///
+///
+///
+///
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_00008608_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2204 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130630 dupes value(s).
+GPU Time: 24.9969 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2208 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130561 dupes value(s).
+GPU Time: 24.9231 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2199 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130318 dupes value(s).
+GPU Time: 24.8914 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2193 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130640 dupes value(s).
+GPU Time: 24.8515 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2194 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130493 dupes value(s).
+GPU Time: 24.8311 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2197 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130243 dupes value(s).
+GPU Time: 24.9089 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2199 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 131065 dupes value(s).
+GPU Time: 24.8617 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2198 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130511 dupes value(s).
+GPU Time: 24.8105 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2188 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130359 dupes value(s).
+GPU Time: 24.8351 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 2197 ms
+Array length: 33554432
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 130931 dupes value(s).
+GPU Time: 24.8279 ms
+
+///
+///
+///
+///
+33554432
+///
+///
+///
+///
+
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_0000adfc_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4562 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 522042 dupes value(s).
+GPU Time: 49.4305 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4568 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 521982 dupes value(s).
+GPU Time: 49.4746 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4568 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 520503 dupes value(s).
+GPU Time: 50.6204 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4560 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 521407 dupes value(s).
+GPU Time: 49.3957 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4613 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 521085 dupes value(s).
+GPU Time: 49.4909 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4578 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 521327 dupes value(s).
+GPU Time: 49.4879 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4575 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 521766 dupes value(s).
+GPU Time: 49.7746 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4569 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 521438 dupes value(s).
+GPU Time: 49.5573 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4563 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 522258 dupes value(s).
+GPU Time: 49.5674 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 4563 ms
+Array length: 67108864
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 521803 dupes value(s).
+GPU Time: 49.4909 ms
+
+
+///
+///
+///
+///
+67108864
+///
+///
+///
+///
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_0000ba30_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9502 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2075395 dupes value(s).
+GPU Time: 98.2825 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9506 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2075380 dupes value(s).
+GPU Time: 98.5047 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9539 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2074322 dupes value(s).
+GPU Time: 96.7598 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9530 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2075609 dupes value(s).
+GPU Time: 98.4689 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9518 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2075577 dupes value(s).
+GPU Time: 98.4525 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9473 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2074491 dupes value(s).
+GPU Time: 97.0861 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9490 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2076073 dupes value(s).
+GPU Time: 98.8518 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9518 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2075443 dupes value(s).
+GPU Time: 98.4208 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9512 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2076332 dupes value(s).
+GPU Time: 96.8069 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 9505 ms
+Array length: 134217728
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 2078899 dupes value(s).
+GPU Time: 98.7091 ms
+
+
+///
+///
+///
+///
+134217728
+///
+///
+///
+///
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nvcc -O3 -o f9 f9.cu
+f9.cu
+tmpxft_0000a354_00000000-10_f9.cudafe1.cpp
+   Creating library f9.lib and object f9.exp
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19768 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8214584 dupes value(s).
+GPU Time: 193.912 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19640 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+
+0 detected , Test Failed
+C contains 8216186 dupes value(s).
+GPU Time: 192.147 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19646 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8214177 dupes value(s).
+GPU Time: 193.911 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19732 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8216411 dupes value(s).
+GPU Time: 189.139 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19822 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8214268 dupes value(s).
+GPU Time: 193.697 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19802 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8222253 dupes value(s).
+GPU Time: 185.737 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19689 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8212147 dupes value(s).
+GPU Time: 191.905 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19673 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8217881 dupes value(s).
+GPU Time: 196.348 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19750 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8219313 dupes value(s).
+GPU Time: 195.199 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>f9.exe
+
+Time to generate array 19668 ms
+Array length: 268435456
+C is sorted in decreasing order. Test Success
+0 not detected , Test Success
+C contains 8216838 dupes value(s).
+GPU Time: 188.797 ms

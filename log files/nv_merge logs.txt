@@ -1,0 +1,129 @@
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 18 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1064147271
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 1.50224 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 18 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -147298453
+Duplicate found: -219335274
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1.22003 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 19 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -395379239
+Duplicate found: -1810633368
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1.22486 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 18 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1277326841
+Duplicate found: 946035310
+Duplicate found: -294266078
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 1.25242 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 18 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1261698420
+Duplicate found: -1296847350
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1.2583 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 19 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 1184254616
+Duplicate found: 1114529028
+Duplicate found: 410023420
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 1.26813 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 19 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -697936917
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 1.22179 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 20 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -1647506559
+The combined and processed array C contains 1 duplicate value(s).
+
+
+GPU Time: 1.18237 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 18 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: 35197408
+Duplicate found: -479003258
+The combined and processed array C contains 2 duplicate value(s).
+
+
+GPU Time: 1.23715 ms
+
+C:\Users\Colm\Desktop\gith\cuda-thing\flims>nv_merge.exe
+
+Time to generate array 19 ms
+The combined and processed array C is sorted in decreasing order.
+Array length: 131072
+The combined and processed array C contains 0 occurrence(s) of the value 0.
+Duplicate found: -540570197
+Duplicate found: -1725261906
+Duplicate found: -2021719778
+The combined and processed array C contains 3 duplicate value(s).
+
+
+GPU Time: 1.24899 ms
